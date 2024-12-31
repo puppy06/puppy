@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=UserInfo
+comment0.text=\r\n\ UserInfo\ class\ will\ upload\ the\ highscore\ of\ this\ game\ to\ a\ textfile\r\n\ \r\n\ @author\ (Marcus\ Yeung)\ \r\n\ @version\ (June\ 15\ 2023)\r\n
+comment1.params=w
+comment1.target=UserInfo(greenfoot.World)
+numComments=2

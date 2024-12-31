@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Map
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MapSelections\ here.\r\n\ @author\ Jude\ kuo\r\n\ @author\ Hank\ Shi\r\n\ @version\ June\ 15\ ,\ 2023\r\n
+comment1.params=
+comment1.target=boolean\ isMouseHovering()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ MapSelections\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ enlarge()
+comment3.params=
+comment3.target=void\ shrink()
+numComments=4

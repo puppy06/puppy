@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ The\ button\ object\ that\ will\ appear\ on\ the\ screen\ for\ the\ user\ to\ press\r\n\ \r\n\ @author\ Marcus\ Yeung\ \r\n\ @version\ June\ 15\ 2023\r\n
+comment1.params=
+comment1.target=Button()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Button.\r\n
+numComments=2

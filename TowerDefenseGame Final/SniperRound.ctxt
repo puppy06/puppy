@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SniperRound
+comment0.text=\r\n\ Class\ of\ SniperRound\ which\ removes\ a\ balloon\ when\ it\ has\ touched\ it\r\n\ @author\ Marcus\ Yeung\r\n\ @author\ Hank\ Shi\r\n\ @author\ Abdullah\ Qureshi\r\n\ @version\ June\ 15\ ,\ 2023\r\n
+comment1.params=direction
+comment1.target=SniperRound(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ findBalloon()
+numComments=4

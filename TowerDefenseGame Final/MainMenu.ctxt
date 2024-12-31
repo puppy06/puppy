@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment0.text=\r\n\ The\ MainMenu\ world\ is\ used\ as\ the\ tower\ defense\ game's\ main\ menu\ where\ the\ user\ will\ be\ able\ to\ change\ settings,\ look\ at\ instructions\ and\ go\ to\ the\ MapSelectionWorld.\r\n\ \r\n\ @author\ (Marcus\ Yeung)\ \r\n\ @version\ June\ 15\ 2023\r\n\ \r\n\ Classical\ Pop\ by\:\ Pro\ Sensory\r\n\ https\://opengameart.org/content/classical-pop-chiptune\r\n\ \r\n\ Theme\ of\ Agrual\ by\:\ Matthew\ Pablo\r\n\ https\://opengameart.org/content/theme-of-agrual\r\n\ \r\n\ Hitting\ Wall\ by\:\ spookymodem\r\n\ https\://opengameart.org/content/wall-impact\r\n\ \r\n\ Chase\ by\:\ Wolfgang_\r\n\ https\://opengameart.org/content/chase\r\n\ \r\n\ Main\ Menu\ image\r\n\ https\://www.pinterest.ca/pin/304204149815340510/\r\n\ \r\n\ Instructions\ background\r\n\ https\://openart.ai/discovery/sd-1007876758525194272\r\n\ \r\n\ LoseWorld\ background\r\n\ https\://openart.ai/discovery/sd-1006214832086847558\r\n\ \r\n\ WinWorld\ background\r\n\ https\://search.krea.ai/prompt/24381c1b-cf4e-4a88-a770-d6f7677f46e7\r\n\ \r\n\ MapSelection\ Background\ image\r\n\ https\://openart.ai/discovery/sd-1007876758525194272\r\n\ \r\n\ MoneyBox\r\n\ https\://creazilla.com/nodes/1999260-brown-crate-clipart\r\n\ \r\n\ Permafrost\ by\ Scott\ Buckley\r\n\ https\://www.chosic.com/download-audio/45497/\ \r\n\ \r\n\ SuperTextBox\ by\:\ \r\n\ @\ author\ Jordan\ Cohen\r\n\ \r\n\ @\ version\ 1.0\r\n\ \r\n\ SuperSmoothMover\ by\:\ \r\n\ @\ author\ Jordan\ Cohen\r\n\ @\ version\ 3.1.jc\r\n\ \r\n\ Coordinate\ by\:\ \r\n\ @\ author\ Jordan\ Cohen\r\n\ @\ version\ November\ 2021\r\n
+comment1.params=
+comment1.target=MainMenu()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MainMenu.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ started()
+comment2.text=\r\n\ Starts\ the\ music\ \r\n
+comment3.params=
+comment3.target=void\ stopped()
+comment3.text=\r\n\ Stops\ the\ music\r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ buttonClicked()
+comment5.text=\r\n\ Allows\ the\ user\ to\ change\ settings\ in\ the\ simulation\ by\ pressing\ buttons\r\n
+numComments=6

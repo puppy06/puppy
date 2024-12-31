@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BackgroundBlock
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BackgroundBlock\ here.\r\n\ \r\n\ @author\ Abdullah\ Qureshi\r\n\ @author\ Hank\ Shi\r\n\ @version\ June\ 15\ ,\ 2023\r\n
+comment1.params=
+comment1.target=BackgroundBlock()
+comment2.params=
+comment2.target=void\ scale()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ BackgroundBlock\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ isClicked()
+comment4.text=\r\n\ Checks\ if\ a\ Tower\ icon\ has\ been\ clicked\r\n
+comment5.params=
+comment5.target=int\ getTowerPrice()
+comment5.text=\r\n\ Gets\ how\ much\ a\ tower\ costs\r\n\ @return\ int\ returns\ the\ price\ of\ a\ Tower\r\n
+comment6.params=towerPrice
+comment6.target=void\ setTowerPrice(int)
+comment6.text=\r\n\ Allows\ user\ to\ change\ price\ of\ Tower\r\n\ @param\ theMoney\ the\ amount\ of\ money\ in\ the\ world\r\n
+comment7.params=world
+comment7.target=void\ create(MyWorld)
+numComments=8

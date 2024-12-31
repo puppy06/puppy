@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Bus
+comment0.text=\r\n\ The\ Bus\ subclass\r\n
+comment1.params=origin
+comment1.target=Bus(VehicleSpawner)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Bus\ calls\ drive\ method\ and\ disappears\ when\ it\ reaches\ the\ edge.\ \r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ drive()
+comment3.text=\r\n\ In\ this\ drive\ method\ Bus\ also\ checks\ for\ citizens\ to\ pick\ up\r\n
+comment4.params=
+comment4.target=boolean\ checkHitPedestrian()
+comment4.text=\r\n\ When\ a\ Bus\ hits\ a\ Citizen,\ it\ should\ pause\ for\ 1\ second\ for\ the\ Citizen\ to\ get\ on\ a\ bus\r\n
+comment5.params=
+comment5.target=void\ checkPoliceCarBack()
+comment5.text=\r\n\ When\ police\ is\ behind\ the\ bus\ it\ changes\ lane\r\n
+comment6.params=
+comment6.target=int\ getCitizenCount()
+comment7.params=
+comment7.target=boolean\ getTerroristHere()
+comment8.params=
+comment8.target=Citizen\ getCitizenAhead()
+comment9.params=
+comment9.target=Vehicle\ getVehicleAhead()
+numComments=10

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Bomb
+comment0.text=\r\n\ Class\ of\ Bomb\ that\ detonates\ within\ the\ closest\ balloon\ and\ affects\ all\ balloons\ in\ that\ range\r\n\ @author\ Marcus\ Yeung\r\n\ @author\ Hank\ Shi\r\n\ @author\ Abdullah\ Qureshi\r\n\ @version\ June\ 15\ ,\ 2023\r\n
+comment1.params=
+comment1.target=Bomb()
+comment1.text=\r\n\ Constructor\ of\ Bomb\ class\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ detonate()
+comment3.text=\r\n\ Detonates\ and\ removes\ 1\ health\ of\ all\ balloons\ in\ blast\ radius\r\n
+numComments=4

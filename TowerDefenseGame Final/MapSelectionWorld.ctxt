@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MapSelectionWorld
+comment0.text=\r\n\ A\ world\ that\ is\ used\ to\ select\ the\ map\ the\ user\ want\ to\ play\ on\r\n\ \r\n\ @author\ Jude\ Kuo\r\n\ @author\ Marcus\ Yeung\r\n\r\n\ @version\ June\ 15\ 2023\r\n
+comment1.params=spawnChange\ speedChange
+comment1.target=MapSelectionWorld(double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MapSelectionWorld.\r\n\ @\ param\ spawnChange\ changes\ the\ chance\ a\ balloon\ has\ to\ spawn\r\n\ @\ param\ speedChange\ changes\ the\ speed\ at\ which\ the\ balloon\ moves\r\n
+comment2.params=
+comment2.target=void\ started()
+comment2.text=\r\n\ Starts\ the\ music\ \r\n
+comment3.params=
+comment3.target=void\ stopped()
+comment3.text=\r\n\ Stops\ the\ music\r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ clearAll()
+comment5.text=\r\n\ Clears\ the\ images\ and\ texts\ relating\ to\ the\ maps\ off\ of\ the\ screen\r\n
+numComments=6

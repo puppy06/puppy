@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TextShower
+comment0.text=\r\n\ Creates\ a\ textbox\ that\ is\ used\ to\ store\ text\ in\ the\ InstrcutionWorld\r\n\ \r\n\ @author\ (Marcus\ Yeung)\ \r\n\ @version\ (June\ 15\ 2023)\r\n
+comment1.params=str\ fontSize
+comment1.target=TextShower(java.lang.String,\ int)
+comment1.text=\r\n\ Creates\ a\ box\ to\ draw\ a\ number\ into\ to\ show\ the\ map\ number\ in\ the\ MapSelectionWorld\r\n\ @param\ String\ -\ the\ text\r\n\ @param\ int\ -\ the\ size\ of\ the\ text\r\n
+numComments=2

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Towers
+comment0.text=\r\n\ Superclass\ of\ all\ Towers\ \r\n\ @author\ Abdullah\ Qureshi\r\n\ @author\ Hank\ Shi\r\n\ @version\ June\ 15\ ,\ 2023\r\n
+comment1.params=attackSpeed
+comment1.target=void\ fireProjectile(double)
+comment10.params=
+comment10.target=int\ getRange()
+comment2.params=
+comment2.target=Towers()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ updateTransparency()
+comment5.params=
+comment5.target=int\ getDirection()
+comment6.params=direction
+comment6.target=void\ setDirection(int)
+comment7.params=
+comment7.target=void\ placing()
+comment8.params=
+comment8.target=void\ setTrue()
+comment9.params=
+comment9.target=void\ aim()
+numComments=11

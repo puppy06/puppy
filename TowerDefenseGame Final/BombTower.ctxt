@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BombTower
+comment0.text=\r\n\ Detects\ the\ nearest\ Balloon\ and\ plants\ a\ bomb\ near\ it,\ decreasing\ all\ Balloons\ in\ its\ range\r\n\ @author\ Abdullah\ Qureshi\r\n\ @author\ Hank\ Shi\r\n\ @version\ June\ 15\ ,\ 2023\r\n
+comment1.params=
+comment1.target=BombTower()
+comment1.text=\r\n\ Constructor\ for\ bomb\ tower\ class\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=attackSpeed
+comment3.target=void\ fireProjectile(double)
+comment3.text=\r\n\ Spawns\ Bomb\ at\ closest\ balloon\r\n\ @param\ double\ -\ the\ speed\ the\ projectiles\ will\ travel\r\n
+comment4.params=attackSpeed
+comment4.target=void\ shoot(double)
+comment4.text=\r\n\ Spawns\ Bomb\ at\ closest\ balloon\r\n\ @param\ double\ -\ the\ speed\ the\ projectiles\ will\ travel\r\n
+numComments=5

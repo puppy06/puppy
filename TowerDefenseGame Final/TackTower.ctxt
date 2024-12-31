@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TackTower
+comment0.text=\r\n\ Rapidly\ shoots\ out\ 8\ weak\ tacks\ in\ every\ direction\r\n\ @author\ Abdullah\ Qureshi\r\n\ @author\ Hank\ Shi\r\n\ @version\ June\ 15\ ,\ 2023\r\n
+comment1.params=
+comment1.target=TackTower()
+comment1.text=\r\n\ Constructor\ for\ tack\ tower\ class\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=attackSpeed
+comment3.target=void\ fireProjectile(double)
+comment3.text=\r\n\ Spawns\ all\ 8\ projectiles\r\n\ @param\ double\ -\ the\ speed\ the\ projectiles\ will\ travel\r\n
+numComments=4

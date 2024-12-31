@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Terrorist
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Terrorist\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=direction
+comment1.target=Terrorist(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Check\ for\ Buses\ and\ teleport\ to\ them\ to\ blow\ them\ up.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=boolean\ trackDown()
+comment3.text=\r\n\ Method\ to\ find\ closest\ bus\ \r\n
+numComments=4

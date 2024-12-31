@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CharShower
+comment0.text=\r\n\ Used\ in\ the\ MapSelectionWorld\ to\ show\ the\ map\ number\ above\ the\ map.\r\n\ \r\n\ @author\ (Marcus\ Yeung)\ \r\n\ @version\ (June\ 15\ 2023)\r\n
+comment1.params=digit
+comment1.target=CharShower(int)
+comment1.text=\r\n\ Creates\ a\ box\ to\ draw\ a\ number\ into\ to\ show\ the\ map\ number\ in\ the\ MapSelectionWorld\r\n
+numComments=2

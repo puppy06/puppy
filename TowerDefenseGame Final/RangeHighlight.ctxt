@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RangeHighlight
+comment0.text=\r\n\ Class\ that\ draws\ a\ faint\ circle\ indicating\ the\ range\ of\ a\ SniperTower\r\n\ @author\ Abdullah\ Qureshi\r\n\ @version\ June\ 15\ ,\ 2023\r\n
+comment1.params=radius
+comment1.target=RangeHighlight(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RangeHighlight\r\n\ @param\ int\ -\ the\ range\ of\ sniper\ tower\r\n
+numComments=2

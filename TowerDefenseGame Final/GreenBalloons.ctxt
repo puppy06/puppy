@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GreenBalloons
+comment0.text=\r\n\ GreenBalloons\ is\ 1\ of\ the\ 6\ balloon\ types\r\n\ \r\n\ @author\ (Marcus\ Yeung)\ \r\n\ @version\ (June\ 15\ 2023)\r\n
+comment1.params=speedChange
+comment1.target=GreenBalloons(double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GreenBalloons.\r\n
+numComments=2

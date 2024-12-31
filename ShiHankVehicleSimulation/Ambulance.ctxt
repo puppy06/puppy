@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ambulance
+comment0.text=\r\n\ The\ Ambulance\ subclass\r\n
+comment1.params=origin
+comment1.target=Ambulance(VehicleSpawner)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Ambulance\ heals\ Citizens\ by\ touching\ them.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=boolean\ checkHitPedestrian()
+comment3.text=\r\n\ These\ methods\ checks\ if\ any\ Citizens\ are\ in\ front\ or\ beside\ the\ Ambulance.\ If\ they\ are,\ they\ will\ be\ healed.\r\n
+comment4.params=
+comment4.target=boolean\ checkDownCornerPedestrian()
+comment5.params=
+comment5.target=boolean\ checkUpCornerPedestrian()
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SniperTower
+comment0.text=\r\n\ One\ shots\ all\ Balloons\ in\ its\ range\r\n\ @author\ Abdullah\ Qureshi\r\n\ @author\ Hank\ Shi\r\n\ @version\ June\ 15\ ,\ 2023\r\n
+comment1.params=
+comment1.target=SniperTower()
+comment1.text=\r\n\ Constructor\ for\ sniper\ tower\ class\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=attackSpeed
+comment3.target=void\ fireProjectile(double)
+comment3.text=\r\n\ Spawns\ 1\ projectile\ at\ location\ of\ balloon\r\n\ @param\ double\ -\ the\ speed\ the\ projectiles\ will\ travel\r\n
+numComments=4

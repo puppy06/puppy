@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Projectiles
+comment0.text=\r\n\ Superclass\ of\ SniperRound,\ Tack\ and\ Bomb\ which\ interacts\ with\ Balloons\ when\ intersecting\ with\ them\r\n\r\n\ @author\ Hank\ Shi\r\n\ @version\ June\ 15\ ,\ 2023\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=i
+comment2.target=void\ rotate(int)
+numComments=3

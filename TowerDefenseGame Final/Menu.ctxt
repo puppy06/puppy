@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Displays\ price\ of\ Towers\r\n\ @author\ Jude\ kuo\r\n\ @author\ Marcus\ Yeung\r\n\ @version\ June\ 15\ ,\ 2023\r\n
+comment1.params=bombTowerPrice\ tackTowerPrice\ sniperTowerPrice
+comment1.target=Menu(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ of\ the\ Menu\ class\r\n\ @param\ bombTowerPrice\ -\ how\ much\ a\ bomb\ tower\ costs\r\n\ @param\ tacktowerPrice\ -\ how\ much\ a\ tack\ tower\ costs\r\n\ @param\ sniperTowerrice\ -\ how\ much\ a\ sniper\ tower\ costs\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

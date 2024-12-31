@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Tack
+comment0.text=\r\n\ Class\ of\ tacks\ which\ go\ in\ 8\ directions\ and\ spread\ out\ on\ the\ map\r\n\ @author\ Marcus\ Yeung\r\n\ @author\ Hank\ Shi\r\n\ @author\ Abdullah\ Qureshi\r\n\ @version\ June\ 15\ ,\ 2023\r\n
+comment1.params=direction
+comment1.target=Tack(int)
+comment1.text=\r\n\ Constructor\ of\ Tack.\r\n\ @param\ int\ -\ the\ direction\ the\ tack\ faces\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ findBalloon()
+comment3.text=\r\n\ Detects\ if\ Tack\ has\ hit\ a\ balloon\r\n
+numComments=4

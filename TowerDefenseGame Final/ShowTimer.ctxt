@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ShowTimer
+comment0.text=\r\n\ Shows\ and\ updates\ the\ time\ in\ the\ menu\r\n\ \r\n\ @author\ Hank\ Shi\r\n\ @version\ June\ 2023\r\n
+comment1.params=timer
+comment1.target=ShowTimer(int)
+comment1.text=\r\n\ Constructor\ of\ ShowTimer\ class\r\n\ @param\ int\ -\ current\ time\ of\ world\r\n
+comment2.params=
+comment2.target=void\ updateTimer()
+comment2.text=\r\n\ Displays\ new\ time\ every\ second(60\ acts)\r\n
+numComments=3

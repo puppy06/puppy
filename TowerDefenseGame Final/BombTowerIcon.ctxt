@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BombTowerIcon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ IceTowerIcon\ here.\r\n\ \r\n\ @author\ Abdullah\ Qureshi\r\n\ @author\ Hank\ Shi\r\n\ @version\ June\ 15\ ,\ 2023\r\n
+comment1.params=
+comment1.target=BombTowerIcon()
+comment1.text=\r\n\ Constructor\ for\ bomb\ tower\ icon\r\n
+comment2.params=world
+comment2.target=void\ create(MyWorld)
+comment2.text=\r\n\ creates\ bomb\ tower\r\n\ @\ param\ World\ -\ the\ world\ that\ the\ object\ is\ added\ to\ \r\n
+numComments=3

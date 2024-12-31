@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MoneyDrop
+comment0.text=\r\n\ An\ object\ that\ is\ spawned\ into\ the\ world\ and\ moves\ to\ its\ destination\r\n\ \r\n\ @author\ (Marcus\ Yeung)\ \r\n\ @version\ (June\ 15\ 2023)\r\n
+comment1.params=
+comment1.target=MoneyDrop()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MoneyDrop.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

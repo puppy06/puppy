@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Police
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Police\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=origin
+comment1.target=Police(VehicleSpawner)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ drive()
+comment3.text=\r\n\ In\ this\ drive\ method\ Police\ doesn't\ check\ for\ empty\ lanes\ since\ it\ doesn't\ lanes\r\n
+comment4.params=
+comment4.target=boolean\ checkHitPedestrian()
+comment4.text=\r\n\ Method\ that\ checks\ if\ Police\ has\ touched\ a\ terrorist.\ If\ it\ does,\ It\ will\ arrest\ the\ terrorist.\r\n
+numComments=5

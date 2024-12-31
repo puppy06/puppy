@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ShowMoney
+comment0.text=\r\n\ Shows\ and\ updates\ the\ money\ in\ the\ menu\r\n\ \r\n\ @author\ Hank\ Shi\ \r\n\ @version\ June\ 2023\r\n
+comment1.params=money
+comment1.target=ShowMoney(int)
+comment1.text=\r\n\ Constructor\ of\ ShowMoney\ class\r\n\ @param\ int\ -\ current\ money\ of\ world\r\n
+comment2.params=
+comment2.target=void\ updateMoney()
+comment2.text=\r\n\ Displays\ new\ money\ score\ if\ it\ has\ been\ updated\r\n
+numComments=3

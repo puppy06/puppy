@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Path
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Path\ here.\r\n\ @author\ Jude\ kuo\r\n\ @version\ June\ 15\ ,\ 2023\r\n
+comment1.params=
+comment1.target=void\ scale()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Path\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
